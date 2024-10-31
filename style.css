@@ -1,0 +1,47 @@
+h1 {
+    color: rgb(163, 9, 9);
+    text-align: center;
+    background-color: rgb(241, 226, 226);
+    font-size: 40px;
+}
+
+.A {
+    background-color: #322f2f;
+    padding: 20px;   
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+li,
+a {
+    color: aliceblue;
+    text-align: center;
+    text-decoration: none;
+}
+h2{
+    color: rgb(163, 9, 9);
+    font-size: 30px;
+    background-color: whitesmoke;
+    padding-bottom: 30px;
+}
+.B{
+    padding-left: 500px;
+}
+h3,p{
+    color: rgb(72, 72, 72);
+    text-align: center;
+}
+.C{
+    padding-left: 750px;
+}
+.D{
+    background-color: rgb(255, 246, 247);
+}
+.e{
+    padding-left: 300px;
+}
+#Q{
+    background-color: rgb(255, 246, 247);
+    padding: 0px;
+}
